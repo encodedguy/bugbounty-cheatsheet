@@ -1,3 +1,4 @@
+### [GraphQL Official Documentation](https://graphql.org/learn/)
 ### [GraphQL Batching Attack](https://lab.wallarm.com/graphql-batching-attack/)
 ### [How to Disable Introspection Query](https://lab.wallarm.com/why-and-how-to-disable-introspection-query-for-graphql-apis/)
 ### [5 Most Common GraphQL Vulnerabilities](https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities/)
