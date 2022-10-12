@@ -1,5 +1,9 @@
-## Fuzz Endpoints
+## Fuzz Using this Wordlist
+## Need to Add More Things
 
-https://*.okta.com/.well-known/oauth-authorization-server
-https://*.okta.com/oauth2/v1/clients
-https://*.okta.com/oauth2/v1/users
+/.well-known/oauth-authorization-server
+/oauth2/v1/clients
+/oauth2/v1/users
+/activate
+/signin/device-activate
+/oauth2/v1/keys
